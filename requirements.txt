@@ -4,3 +4,4 @@ numpy
 xlrd
 matplotlib
 statsmodels
+pmdarima
