@@ -10,3 +10,4 @@ optuna
 prophet
 scikit-learn
 sklearn.metrics
+h2o
